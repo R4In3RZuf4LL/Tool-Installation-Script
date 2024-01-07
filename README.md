@@ -19,7 +19,7 @@ sudo bash init.sh
 
 ### The script installs the following tools:
 
-   + Nautilus Dropbox
+   + Dropbox
    + Subfinder
    + Sublist3r
    + Nuclei
