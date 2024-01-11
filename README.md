@@ -2,7 +2,19 @@
 
 This script automates the installation of various tools and programs on a Kali Linux system.
 
+## Disclaimer
+
+The tools shown and installed are intended for practice and learning purposes. I am not responsible for what third parties do. Please remember, we are learning a science that should make the world safer!
+
+Be Scientist not Criminal
+
 ## Usage
+
+Make the script executable.
+
+```bash
+chmod +x init.sh
+```
 
 Run the script with root privileges to initiate the installation.
 
@@ -33,6 +45,8 @@ sudo bash init.sh
    + Waybackurls
    + Obsidian
    + Visual Studio Code
+   + XSStrike
+   + Nipe
 
 ## Environment Variables
 
